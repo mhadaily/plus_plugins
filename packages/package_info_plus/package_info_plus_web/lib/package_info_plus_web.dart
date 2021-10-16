@@ -5,7 +5,7 @@ import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 import 'package:http/http.dart';
 import 'package:package_info_plus_platform_interface/package_info_data.dart';
 import 'package:package_info_plus_platform_interface/package_info_platform_interface.dart';
-
+///
 /// The web implementation of [PackageInfoPlatform].
 ///
 /// This class implements the `package:package_info_plus` functionality for the web.
